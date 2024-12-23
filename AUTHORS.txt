@@ -1,0 +1,6 @@
+"EB Garamond" (file: AUTHORS.txt, repository: https://github.com/octaviopardo/EBGaramond12)
+- Georg Duffner <g.duffner@gmail.com>
+- Octavio Pardo <octaviopardo@gmail.com>
+
+"Garamontio" (additions and modifications)
+- Michele Casanova
