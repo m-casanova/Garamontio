@@ -1,5 +1,5 @@
 # Garamontio
-- Versione 0.9x: versione di prova (con probabili problemi da sistemare)
+- Versione 0.904: versione di prova con miglioramento delle classi e sistemazione di alcuni riferimenti
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Garamontio/).
 
@@ -17,4 +17,10 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 
 ![image](images/garamontio_3.jpg)
 
+Esempi di alcune caratteristiche opentype:
+
 ![image](images/garamontio_4.jpg)
+
+![image](images/garamontio_5.jpg)
+
+![image](images/garamontio_6.jpg)
