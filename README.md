@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.905: fix frazioni
 - Versione 0.904: versione di prova con miglioramento delle classi e sistemazione di alcuni riferimenti
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Garamontio/).
