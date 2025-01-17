@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.911: fix minori e creazione file per versioni statiche del font (otf, ttf, woff, woff2)
 - Versione 0.906: modifiche minime per compatibilità con [Garamontio Sans](https://github.com/m-casanova/GaramontioSans)
 - Versione 0.905: fix frazioni
 - Versione 0.904: versione di prova con miglioramento delle classi e sistemazione di alcuni riferimenti
