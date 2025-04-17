@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.916: aggiunta di alcuni caratteri per trascrizioni come da progetto [MUFI](https://en.wikipedia.org/wiki/Medieval_Unicode_Font_Initiative)
 - Versione 0.911: fix minori e creazione file per versioni statiche del font (otf, ttf, woff, woff2)
 - Versione 0.906: modifiche minime per compatibilità con [Garamontio Sans](https://github.com/m-casanova/GaramontioSans)
 - Versione 0.905: fix frazioni
