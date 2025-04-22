@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.918: sistemazione della crenatura per diversi caratteri
 - Versione 0.917: sistemazione _dlig_ e alcuni fix ai caratteri
 - Versione 0.916: aggiunta di alcuni caratteri per trascrizioni come da progetto [MUFI](https://en.wikipedia.org/wiki/Medieval_Unicode_Font_Initiative)
 - Versione 0.915: aggiunta di alcuni caratteri per trascrizioni come da progetto MUFI
@@ -24,6 +25,8 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 ![image](images/garamontio_2.jpg)
 
 ![image](images/garamontio_3.jpg)
+
+![image](images/garamontio_7.jpg)
 
 Esempi di alcune caratteristiche opentype:
 
