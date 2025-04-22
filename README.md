@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.917: sistemazione _dlig_ e alcuni fix ai caratteri
 - Versione 0.916: aggiunta di alcuni caratteri per trascrizioni come da progetto [MUFI](https://en.wikipedia.org/wiki/Medieval_Unicode_Font_Initiative)
 - Versione 0.915: aggiunta di alcuni caratteri per trascrizioni come da progetto MUFI
 - Versione 0.911: fix minori e creazione file per versioni statiche del font (otf, ttf, woff, woff2)
