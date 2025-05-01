@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.921: sistemazione problemi di interpolazione di alcuni caratteri (regular + italic)
 - Versione 0.919: sistemazione disegno dei caratteri
 - Versione 0.918: sistemazione della crenatura per diversi caratteri
 - Versione 0.917: sistemazione _dlig_ e alcuni fix ai caratteri
