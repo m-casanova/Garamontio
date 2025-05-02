@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.923: fix minore e aggiunta carattere F160 da MUFI
 - Versione 0.922: tentativo di sistemazione di f.short per alcuni casi
 - Versione 0.921: sistemazione problemi di interpolazione di alcuni caratteri (regular + italic)
 - Versione 0.919: sistemazione disegno dei caratteri
