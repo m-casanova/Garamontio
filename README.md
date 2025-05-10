@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.926: fix per caratteri combinati (continuazione)
 - Versione 0.925: fix per caratteri combinati (non ancora completato)
 - Versione 0.924: fix minori
 - Versione 0.923: fix minore e aggiunta carattere F160 da MUFI
