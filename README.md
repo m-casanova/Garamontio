@@ -35,6 +35,10 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 
 ![image](images/garamontio_7.jpg)
 
+È anche disponibile il capolettera [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) (a due livelli)
+
+![image](images/garamontio_capo_3.jpg)
+
 Esempi di alcune caratteristiche opentype:
 
 ![image](images/garamontio_4.jpg)
