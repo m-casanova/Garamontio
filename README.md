@@ -1,5 +1,6 @@
 # Garamontio
-- Versione 0.927: estensione blocco IPA
+- Versione 0.928: blocco IPA (aggiunte e correzione forma di alcuni caratteri)
+- Versione 0.927: blocco IPA (aggiunte)
 - Versione 0.926: fix per caratteri combinati (continuazione)
 - Versione 0.925: fix per caratteri combinati (non ancora completato)
 - Versione 0.924: fix minori
