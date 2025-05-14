@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.929: blocco IPA (aggiunte e correzione forma di alcuni caratteri), correzione ę
 - Versione 0.928: blocco IPA (aggiunte e correzione forma di alcuni caratteri)
 - Versione 0.927: blocco IPA (aggiunte)
 - Versione 0.926: fix per caratteri combinati (continuazione)
