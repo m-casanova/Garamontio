@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.933: aggiunti caratteri musicali, SS03 (caratteri greci IPA + corsivo), fix kerning / con punteggiatura
 - Versione 0.932: blocco IPA (aggiunte caratteri) e sistemazione per alcuni segni diatrici
 - Versione 0.931: blocco IPA (aggiunte caratteri) e sistemazione per alcuni segni diatrici
 - Versione 0.929: blocco IPA (aggiunte e correzione forma di alcuni caratteri), correzione ę
