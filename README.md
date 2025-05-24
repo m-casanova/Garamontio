@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.935: sistemazione di caratteri combinati
 - Versione 0.934: tentativo di sistemazione delle ancore per i caratteri combinati
 - Versione 0.933: aggiunti caratteri musicali, SS03 (caratteri greci IPA + corsivo), fix kerning / con punteggiatura
 - Versione 0.932: blocco IPA (aggiunte caratteri) e sistemazione per alcuni segni diatrici
