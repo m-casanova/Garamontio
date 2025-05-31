@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.940: aggiunta di caratteri per cedilla + test ss04 (varianti /h e /k)
 - Versione 0.939: aggiunta di caratteri + fix minori
 - Versione 0.938: blocco IPA completato + carattere ℗ + fix minori
 - Versione 0.937: aggiunta di caratteri e fix minori
