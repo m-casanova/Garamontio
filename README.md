@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.942: aggiunta caratteri pcap
 - Versione 0.941: fix minori + test ss04 (varianti /b /d /h /k)
 - Versione 0.940: aggiunta di caratteri per cedilla + test ss04 (varianti /h e /k)
 - Versione 0.939: aggiunta di caratteri + fix minori
