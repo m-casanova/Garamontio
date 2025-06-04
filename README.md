@@ -1,4 +1,5 @@
 # Garamontio
+- Versione 0.944: fix accenti + longs
 - Versione 0.943: fix minori (dlig e crenatura)
 - Versione 0.942: aggiunta caratteri pcap
 - Versione 0.941: fix minori + test ss04 (varianti /b /d /h /k)
