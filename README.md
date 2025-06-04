@@ -1,4 +1,43 @@
 # Garamontio
+
+![image](images/garamontio_1.jpg)
+
+Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Garamontio/).
+
+Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
+
+## Stilistic Sets 01-20
+Sono disponibili le seguenti caratteristiche opentype:
+* __ss01__ = __smcp&c2sc__ : maiuscoletto completo (maiuscole e minuscole)
+* __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
+* __ss03__ : versione alternativa delle lettere greche per IPA
+* __ss04__ : posizione alternativa degli accenti per le lettere /b /d /h /k
+* __ss05__ : versione alternativa per eszet (da EB Garamond)
+* __ss06__ : Q con coda lunga (da EB Garamond)
+* __ss07__ = __hist__ : utilizza le versioni storiche di alcuni caratteri, in particolare la lettera s allungata __ſ__
+
+Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
+
+## Descrizione
+_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo; il font deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
+
+Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è stato modificato il corsivo e sono state fatte modifiche agli operatori matematici.
+
+![image](images/garamontio_2.jpg)
+
+![image](images/garamontio_3.jpg)
+
+![image](images/garamontio_7.jpg)
+
+Esempi di alcune caratteristiche opentype:
+
+![image](images/garamontio_4.jpg)
+
+![image](images/garamontio_5.jpg)
+
+![image](images/garamontio_6.jpg)
+
+## Versioni
 - Versione 0.944: fix accenti + longs
 - Versione 0.943: fix minori (dlig e crenatura)
 - Versione 0.942: aggiunta caratteri pcap
@@ -30,35 +69,3 @@
 - Versione 0.906: modifiche minime per compatibilità con [Garamontio Sans](https://github.com/m-casanova/GaramontioSans)
 - Versione 0.905: fix frazioni
 - Versione 0.904: versione di prova con miglioramento delle classi e sistemazione di alcuni riferimenti
-
-Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Garamontio/).
-
-![image](images/garamontio_0.jpg)
-
-## Utilizzo
-Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
-
-![image](images/garamontio_1.jpg)
-
-## Descrizione
-_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo; il font deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
-
-Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è stato modificato il corsivo e sono state fatte modifiche agli operatori matematici.
-
-![image](images/garamontio_2.jpg)
-
-![image](images/garamontio_3.jpg)
-
-![image](images/garamontio_7.jpg)
-
-È anche disponibile il capolettera [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) (a due livelli)
-
-![image](images/garamontio_capo_3.jpg)
-
-Esempi di alcune caratteristiche opentype:
-
-![image](images/garamontio_4.jpg)
-
-![image](images/garamontio_5.jpg)
-
-![image](images/garamontio_6.jpg)
