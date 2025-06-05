@@ -38,6 +38,7 @@ Esempi di alcune caratteristiche opentype:
 ![image](images/garamontio_6.jpg)
 
 ## Versioni
+- Versione 0.946: aggiunta /copyleft + test per ss06 (coda lettera Q)
 - Versione 0.944: fix accenti + longs
 - Versione 0.943: fix minori (dlig e crenatura)
 - Versione 0.942: aggiunta caratteri pcap
