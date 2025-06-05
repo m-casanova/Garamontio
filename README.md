@@ -12,8 +12,8 @@ Sono disponibili le seguenti caratteristiche opentype:
 * __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
 * __ss03__ : versione alternativa delle lettere greche per IPA
 * __ss04__ : posizione alternativa degli accenti per le lettere /b /d /h /k
-* __ss05__ : versione alternativa per eszet (da EB Garamond)
-* __ss06__ : Q con coda lunga (da EB Garamond)
+* __ss05__ : versione alternativa per eszet (da EB Garamond) -- __da verificare/completare__
+* __ss06__ : Q con coda lunga (da EB Garamond) -- __da verificare/completare__
 * __ss07__ = __hist__ : utilizza le versioni storiche di alcuni caratteri, in particolare la lettera s allungata __ſ__
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
