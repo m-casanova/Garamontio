@@ -46,6 +46,7 @@ Esempi di alcune caratteristiche opentype:
 ![image](images/garamontio_10.jpg)
 
 ## Versioni
+- Versione 0.949: fix minori, incluse alcune ancore per alfabeto cirillico
 - Versione 0.948: fix minori + ss09 (elementi ornamentali)
 - Versione 0.947: fix minori + ss05 (Q coda corta) + ss06 (Q coda lunga) + ss08 (eszet)
 - Versione 0.946: aggiunta /copyleft + test per ss06 (coda lettera Q)
