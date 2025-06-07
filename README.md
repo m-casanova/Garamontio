@@ -14,8 +14,9 @@ Sono disponibili le seguenti caratteristiche opentype:
 * __ss04__ : posizione alternativa degli accenti per le lettere /b /d /h /k
 * __ss05__ : Q con coda corta
 * __ss06__ : Q con coda lunga
-* __ss07__ = __hist__ : utilizza le versioni storiche di alcuni caratteri, in particolare la lettera s allungata __ſ__
+* __ss07__ : utilizza la lettera [s lunga](https://it.wikipedia.org/wiki/S_lunga) __ſ__
 * __ss08__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
+* __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
@@ -28,17 +29,24 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 
 ![image](images/garamontio_3.jpg)
 
-![image](images/garamontio_7.jpg)
+![image](images/garamontio_4.jpg)
 
 Esempi di alcune caratteristiche opentype:
-
-![image](images/garamontio_4.jpg)
 
 ![image](images/garamontio_5.jpg)
 
 ![image](images/garamontio_6.jpg)
 
+![image](images/garamontio_7.jpg)
+
+![image](images/garamontio_8.jpg)
+
+![image](images/garamontio_9.jpg)
+
+![image](images/garamontio_10.jpg)
+
 ## Versioni
+- Versione 0.948: fix minori + ss09 (elementi ornamentali)
 - Versione 0.947: fix minori + ss05 (Q coda corta) + ss06 (Q coda lunga) + ss08 (eszet)
 - Versione 0.946: aggiunta /copyleft + test per ss06 (coda lettera Q)
 - Versione 0.944: fix accenti + longs
