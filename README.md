@@ -6,7 +6,7 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 
 Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
 
-## Stilistic Sets 01-20
+## Stylistic Sets 01-20
 Sono disponibili le seguenti caratteristiche opentype:
 * __ss01__ = __smcp&c2sc__ : maiuscoletto completo (maiuscole e minuscole)
 * __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
