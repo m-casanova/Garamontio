@@ -15,8 +15,9 @@ Sono disponibili le seguenti caratteristiche opentype:
 * __ss05__ : Q con coda corta
 * __ss06__ : Q con coda lunga
 * __ss07__ : utilizza la lettera [s lunga](https://it.wikipedia.org/wiki/S_lunga) __ſ__
-* __ss08__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
+* __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
 * __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
+* __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
@@ -46,6 +47,7 @@ Esempi di alcune caratteristiche opentype:
 ![image](images/garamontio_10.jpg)
 
 ## Versioni
+- Versione 0.951: fix minori + aggiunta caratteri + modifica ss10
 - Versione 0.950: fix minori + aggiunta caratteri + prima crenatura per pcap&c2pc
 - Versione 0.949: fix minori, incluse alcune ancore per alfabeto cirillico
 - Versione 0.948: fix minori + ss09 (elementi ornamentali)
