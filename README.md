@@ -32,7 +32,7 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 
 ![image](images/garamontio_4.jpg)
 
-Esempi di alcune caratteristiche opentype:
+### Alcune caratteristiche opentype:
 
 ![image](images/garamontio_5.jpg)
 
@@ -45,6 +45,13 @@ Esempi di alcune caratteristiche opentype:
 ![image](images/garamontio_9.jpg)
 
 ![image](images/garamontio_10.jpg)
+
+## Garamontio Capo
+
+È disponibile anche il font sperimentale [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) per ottenere capolettera
+
+![image](images/garamontio_99.jpg)
+
 
 ## Versioni
 - Versione 0.951: fix minori + aggiunta caratteri + modifica ss10
