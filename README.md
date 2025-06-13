@@ -6,8 +6,19 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 
 Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
 
-## Stylistic Sets 01-20
-Sono disponibili le seguenti caratteristiche opentype:
+## Descrizione
+_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo; il font deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
+
+Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è stato modificato il corsivo e sono state fatte modifiche agli operatori matematici.
+
+![image](images/garamontio_2.jpg)
+
+![image](images/garamontio_3.jpg)
+
+![image](images/garamontio_4.jpg)
+
+## Opentype
+Alcune caratteristiche opentype disponibili:
 * __ss01__ = __smcp&c2sc__ : maiuscoletto completo (maiuscole e minuscole)
 * __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
 * __ss03__ : versione alternativa delle lettere greche per IPA
@@ -20,19 +31,6 @@ Sono disponibili le seguenti caratteristiche opentype:
 * __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
-
-## Descrizione
-_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo; il font deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
-
-Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è stato modificato il corsivo e sono state fatte modifiche agli operatori matematici.
-
-![image](images/garamontio_2.jpg)
-
-![image](images/garamontio_3.jpg)
-
-![image](images/garamontio_4.jpg)
-
-### Alcune caratteristiche opentype:
 
 ![image](images/garamontio_5.jpg)
 
