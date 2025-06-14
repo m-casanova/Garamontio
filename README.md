@@ -7,7 +7,9 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
 
 ## Descrizione
-_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo; il font deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
+_Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo, che deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
+
+Alcuni simboli e operatori matematici sono stati tratti da [Garamond Math](https://github.com/YuanshengZhao/Garamond-Math), con alcune modifiche.
 
 Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è stato modificato il corsivo e sono state fatte modifiche agli operatori matematici.
 
@@ -29,6 +31,9 @@ Alcune caratteristiche opentype disponibili:
 * __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
 * __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 * __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
+
+* __cv01__ : accesso rapido a caratteri fraktur (matematica)
+* __cv28__ : versione alternativa per /Hbar
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
