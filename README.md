@@ -57,6 +57,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.953: fix minori + aggiunta caratteri
 - Versione 0.952: cv28 /Hbar - Matematica: aggiunta caratteri e simboli matematici + fraktur (cv01)
 - Versione 0.951: fix minori + aggiunta caratteri + modifica ss10
 - Versione 0.950: fix minori + aggiunta caratteri + prima crenatura per pcap&c2pc
