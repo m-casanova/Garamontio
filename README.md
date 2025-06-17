@@ -57,6 +57,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.955: fix minori
 - Versione 0.954: maiuscoletto coerente tra regular e italic (fix greco)
 - Versione 0.953: fix minori + aggiunta caratteri
 - Versione 0.952: cv28 /Hbar - Matematica: aggiunta caratteri e simboli matematici + fraktur (cv01)
