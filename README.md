@@ -57,6 +57,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.958: fix posizione punto /i /j
 - Versione 0.957: fix minori
 - Versione 0.956: modificato leggermente il peso delle versioni intermedie
 - Versione 0.955: fix minori
