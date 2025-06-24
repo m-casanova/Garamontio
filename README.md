@@ -33,6 +33,7 @@ Alcune caratteristiche opentype disponibili:
 * __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 
 * __cv01__ : accesso rapido a caratteri fraktur (matematica)
+* __cv02__ : posizione alternativa per punto in /i /j
 * __cv28__ : versione alternativa per /Hbar
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
@@ -57,6 +58,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.960: alternativa posizione punto /i /j (cv02)
 - Versione 0.959: fix minori
 - Versione 0.958: fix posizione punto /i /j
 - Versione 0.957: fix minori
