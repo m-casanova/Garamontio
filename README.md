@@ -58,6 +58,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.962: fix minori
 - Versione 0.961: fix posizione dieresi/punto + legature /AE /OE /ae /oe (cv03)
 - Versione 0.960: <s>alternativa posizione punto /i /j (cv02)</s> [Rimosso v. 0.961]
 - Versione 0.959: fix minori
