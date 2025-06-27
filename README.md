@@ -33,7 +33,9 @@ Alcune caratteristiche opentype disponibili:
 * __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 
 * __cv01__ : accesso rapido a caratteri fraktur (matematica)
+* __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
 * __cv03__ : legature /AE /OE /ae /oe
+* __cv04__ : esperimento per avere maiuscole in tondo selezionando il corsivo (esperimento)
 * __cv28__ : versione alternativa per /Hbar
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
@@ -58,6 +60,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.963: aggiunta cv02 (punto esclamativo) e cv04 (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
 - Versione 0.962: fix minori
 - Versione 0.961: fix posizione dieresi/punto + legature /AE /OE /ae /oe (cv03)
 - Versione 0.960: <s>alternativa posizione punto /i /j (cv02)</s> [Rimosso v. 0.961]
