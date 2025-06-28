@@ -54,6 +54,8 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 ![image](images/garamontio_11.jpg)
 
+![image](images/garamontio_12.jpg)
+
 ## Garamontio Capo
 
 È disponibile anche il font sperimentale [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) per ottenere capolettera
