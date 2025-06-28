@@ -52,6 +52,8 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 ![image](images/garamontio_10.jpg)
 
+![image](images/garamontio_11.jpg)
+
 ## Garamontio Capo
 
 È disponibile anche il font sperimentale [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) per ottenere capolettera
@@ -60,6 +62,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.964: fix legature (liga, hlig, dlig)
 - Versione 0.963: aggiunta cv02 (punto esclamativo) e cv04 (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
 - Versione 0.962: fix minori
 - Versione 0.961: fix posizione dieresi/punto + legature /AE /OE /ae /oe (cv03)
