@@ -20,32 +20,22 @@ Rispetto a EB Garamond sono state effettuate alcune modifiche. Principalmente è
 ![image](images/garamontio_4.jpg)
 
 ## Opentype
-Alcune caratteristiche opentype disponibili:
-* __ss01__ = __smcp&c2sc__ : maiuscoletto completo (maiuscole e minuscole)
-* __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
-* __ss03__ : versione alternativa delle lettere greche per IPA
-* __ss04__ : posizione alternativa degli accenti per le lettere /b /d /h /k
-* __ss05__ : Q con coda corta
-* __ss06__ : Q con coda lunga
-* __ss07__ : utilizza la lettera [s lunga](https://it.wikipedia.org/wiki/S_lunga) __ſ__
-* __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
-* __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
-* __ss10__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
-
-* __cv01__ : accesso rapido a caratteri fraktur (matematica)
-* __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
-* __cv03__ : legature /AE /OE /ae /oe
-* __cv04__ : maiuscole in tondo selezionando il corsivo (esperimento)
-* __cv05__ : versione alternativa per le manicule come da [esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
-* __cv28__ : versione alternativa per /Hbar
-
-Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
-
 ![image](images/garamontio_5.jpg)
 
 ![image](images/garamontio_6.jpg)
 
 ![image](images/garamontio_7.jpg)
+
+Alcune caratteristiche opentype disponibili:
+* __ss01__ = __smcp&c2sc__ : maiuscoletto completo (maiuscole e minuscole)
+* __ss02__ = __pcap&c2pc__ : maiuscoletto minore (maiuscole e minuscole)
+* __ss03__ : accesso rapido a caratteri fraktur (matematica)
+* __ss04__ : maiuscole in tondo selezionando il corsivo (esperimento, solo corsivo)
+* __ss05__ : Q con coda corta
+* __ss06__ : Q con coda lunga
+* __ss07__ : utilizza la lettera [s lunga](https://it.wikipedia.org/wiki/S_lunga) __ſ__
+* __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
+* __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 
 ![image](images/garamontio_8.jpg)
 
@@ -53,9 +43,22 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 ![image](images/garamontio_10.jpg)
 
+* __cv01__ : versione alternativa delle lettere greche per IPA
+* __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
+* __cv03__ : legature /AE /OE /ae /oe
+* __cv04__ : posizione alternativa degli accenti per le lettere /b /d /h /k
+* __cv05__ : versione alternativa per le manicule come da [esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
+* __cv06__ : versione alternativa di e commerciale (&) (solo corsivo)
+* __cv07__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
+* __cv28__ : versione alternativa per /Hbar
+
 ![image](images/garamontio_11.jpg)
 
 ![image](images/garamontio_12.jpg)
+
+Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
+
+![image](images/garamontio_13.jpg)
 
 ## Garamontio Capo
 
@@ -65,6 +68,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.966: riorganizzazione caratteristiche ss e cv
 - Versione 0.965: fix minori e aggiunta cv05 per manicule
 - Versione 0.964: fix legature (liga, hlig, dlig)
 - Versione 0.963: aggiunta cv02 (punto esclamativo) e cv04 (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
