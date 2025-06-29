@@ -36,6 +36,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
 * __cv03__ : legature /AE /OE /ae /oe
 * __cv04__ : maiuscole in tondo selezionando il corsivo (esperimento)
+* __cv05__ : versione alternativa per le manicule come da [esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 * __cv28__ : versione alternativa per /Hbar
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
@@ -64,6 +65,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.965: fix minori e aggiunta cv05 per manicule
 - Versione 0.964: fix legature (liga, hlig, dlig)
 - Versione 0.963: aggiunta cv02 (punto esclamativo) e cv04 (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
 - Versione 0.962: fix minori
