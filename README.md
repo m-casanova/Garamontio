@@ -68,6 +68,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.967: sistemazione crenatura apostrofo
 - Versione 0.966: riorganizzazione caratteristiche ss e cv
 - Versione 0.965: fix minori e aggiunta cv05 per manicule
 - Versione 0.964: fix legature (liga, hlig, dlig)
