@@ -68,6 +68,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.971: fix minori
 - Versione 0.970: aggiunta /ur (uni1dd1) + aggiunta alcuni ornamenti 
 - Versione 0.969: fix minori
 - Versione 0.968: fix minori
