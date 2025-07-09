@@ -60,6 +60,8 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 ![image](images/garamontio_13.jpg)
 
+![image](images/garamontio_14.jpg)
+
 ## Garamontio Capo
 
 È disponibile anche il font sperimentale [Garamontio Capo](https://github.com/m-casanova/GaramontioCapo) per ottenere capolettera
@@ -68,6 +70,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 0.973: fix minori
 - Versione 0.972: fix larghezza lettera /i per carattere tondo
 - Versione 0.971: fix minori
 - Versione 0.970: aggiunta /ur (uni1dd1) + aggiunta alcuni ornamenti 
