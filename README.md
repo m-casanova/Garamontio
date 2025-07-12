@@ -70,6 +70,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 1.001: fix minori
 - Versione 1.000: aggiunta di alcuni caratteri
 - Versione 0.973: fix minori
 - Versione 0.972: fix larghezza lettera /i per carattere tondo
