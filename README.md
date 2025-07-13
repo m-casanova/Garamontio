@@ -43,6 +43,8 @@ Alcune caratteristiche opentype disponibili:
 
 ![image](images/garamontio_10.jpg)
 
+![image](images/garamontio_11.jpg)
+
 * __cv01__ : versione alternativa delle lettere greche per IPA
 * __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
 * __cv03__ : legature /AE /OE /ae /oe
@@ -52,15 +54,15 @@ Alcune caratteristiche opentype disponibili:
 * __cv07__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 * __cv28__ : versione alternativa per /Hbar
 
-![image](images/garamontio_11.jpg)
-
 ![image](images/garamontio_12.jpg)
-
-Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
 ![image](images/garamontio_13.jpg)
 
+Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
+
 ![image](images/garamontio_14.jpg)
+
+![image](images/garamontio_15.jpg)
 
 ## Garamontio Capo
 
