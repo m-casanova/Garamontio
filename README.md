@@ -36,6 +36,7 @@ Alcune caratteristiche opentype disponibili:
 * __ss07__ : utilizza la lettera [s lunga](https://it.wikipedia.org/wiki/S_lunga) __ſ__
 * __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
 * __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
+* __ss10__ : zero alternativo (disponibile anche per __onum__, __pnum__, __smcp__ e __c2sc__)
 
 ![image](images/garamontio_8.jpg)
 
@@ -72,6 +73,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 1.002: fix cifre + __zero__ (slashedzero) + __ss10__ (zero alternativo)
 - Versione 1.002: fix minori
 - Versione 1.001: fix minori
 - Versione 1.000: aggiunta di alcuni caratteri
