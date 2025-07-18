@@ -73,6 +73,7 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 
 ## Versioni
+- Versione 1.006: tentativo di rendere più omogenee le maiuscole per __swsh__ (corsivo)
 - Versione 1.005: fix problema con accento in maiuscole / rimosso OTF (inutile duplicato TTF)
 - Versione 1.004: fix forme per __ss10__ + fix crenatura
 - Versione 1.003: fix cifre + __zero__ (slashedzero) + __ss10__ (zero alternativo)
