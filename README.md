@@ -71,6 +71,9 @@ Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](http
 
 ![image](images/garamontio_99.jpg)
 
+Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https://github.com/m-casanova/CapoNodi)
+
+![image](images/garamontio_98.jpg)
 
 ## Versioni
 - Versione 1.009: fix minori
