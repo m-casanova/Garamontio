@@ -76,6 +76,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.011: aggiunta cv09 per numeri romani
 - Versione 1.010: aggiunta cv08 per variante numero 1 (onum, onum&pnum)
 - Versione 1.009: fix minori
 - Versione 1.008: fix minori
