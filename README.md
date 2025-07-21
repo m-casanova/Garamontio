@@ -53,6 +53,8 @@ Alcune caratteristiche opentype disponibili:
 * __cv05__ : versione alternativa per le manicule come da [esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 * __cv06__ : versione alternativa di e commerciale (&) (solo corsivo)
 * __cv07__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
+* __cv08__ : versione alternativa del numero 1 per __onum__ e __onum&pnum__
+* __cv09__ : numeri romani automatici
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
