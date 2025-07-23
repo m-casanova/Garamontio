@@ -54,18 +54,21 @@ Alcune caratteristiche opentype disponibili:
 * __cv06__ : versione alternativa di e commerciale (&) (solo corsivo)
 * __cv07__ : versione alternativa (SS/ss) per __ẞ__ e __ß__
 * __cv08__ : versione alternativa del numero 1 per __onum__ e __onum&pnum__
-* __cv09__ : numeri romani automatici
+* __cv09__ : numeri romani
+* __cv10__ : numeri romani maiuscoletto
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
 
 ![image](images/garamontio_13.jpg)
 
-Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
-
 ![image](images/garamontio_14.jpg)
 
+Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
+
 ![image](images/garamontio_15.jpg)
+
+![image](images/garamontio_16.jpg)
 
 ## Garamontio Capo
 
@@ -78,6 +81,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.012: distinzione cv09 e cv10 per numeri romani
 - Versione 1.011: aggiunta cv09 per numeri romani
 - Versione 1.010: aggiunta cv08 per variante numero 1 (onum, onum&pnum)
 - Versione 1.009: fix minori
