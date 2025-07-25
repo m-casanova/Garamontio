@@ -81,6 +81,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.013: aggiunta di alcuni caratteri
 - Versione 1.013: fix minori
 - Versione 1.012: distinzione cv09 e cv10 per numeri romani
 - Versione 1.011: aggiunta cv09 per numeri romani
