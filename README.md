@@ -81,6 +81,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.016: miglioramento coda /Q /Q.medium /Q.long per corsivo 
 - Versione 1.015: fix minori + icone Creative Commons
 - Versione 1.014: aggiunta di alcuni caratteri
 - Versione 1.013: fix minori
