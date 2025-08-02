@@ -81,6 +81,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.018: nuovo test % per onum
 - Versione 1.017: endash emdash per ordn, sups, subs, sinf -- test % per onum 
 - Versione 1.016: miglioramento coda /Q /Q.medium /Q.long per corsivo
 - Versione 1.015: fix minori + icone Creative Commons
