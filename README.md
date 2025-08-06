@@ -4,7 +4,12 @@
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Garamontio/).
 
-Il font è distribuito in formato WOFF2 e TTF; è rilasciato con licenza OFL 1.1.
+Il font è rilasciato con licenza OFL 1.1.
+
+* Font variabile (tondo e corsivo): formati TTF e WOFF2
+* Font separati (diversi pesi): formati TTF, WOFF e WOFF2; il formato OTF è sperimentale.
+
+Al momento è preferibile utilizzare il formato TTF, dato con il formato OTF non è stato testato e potrebbe avere problemi.
 
 ## Descrizione
 _Garamontio_ è derivato da _[EB Garamond](https://github.com/octaviopardo/EBGaramond12)_ di Octavio Pardo, che deriva a sua volta dal font _[EB Garamond](https://github.com/georgd/EB-Garamond)_ di Georg Mayr-Duffner.
