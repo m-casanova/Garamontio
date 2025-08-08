@@ -86,6 +86,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.021: fix numeri romani (errore per numero 50)
 - Versione 1.020: fix minori e test per versione OTF del font
 - Versione 1.019: aggiunta di caratteri
 - Versione 1.018: nuovo test % per onum
