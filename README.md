@@ -61,6 +61,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv08__ : versione alternativa del numero 1 per __onum__ e __onum&pnum__
 * __cv09__ : numeri romani
 * __cv10__ : numeri romani maiuscoletto
+* __cv10__ : segno di paragrafo alternativo
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
