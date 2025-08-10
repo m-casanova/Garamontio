@@ -61,7 +61,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv08__ : versione alternativa del numero 1 per __onum__ e __onum&pnum__
 * __cv09__ : numeri romani
 * __cv10__ : numeri romani maiuscoletto
-* __cv10__ : segno di paragrafo alternativo
+* __cv11__ : segno di paragrafo alternativo
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
@@ -87,6 +87,8 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.023: aggiunta di caratteri per menu (☰ /uni2630 e ✕ /uni2715)
+- Versione 1.022: aggiunta cv11 (simbolo paragrafo)
 - Versione 1.021: fix numeri romani (errore per numero 50)
 - Versione 1.020: fix minori e test per versione OTF del font
 - Versione 1.019: aggiunta di caratteri
