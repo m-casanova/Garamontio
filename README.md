@@ -87,6 +87,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.024: correzione problema /u corsivo e aggiunta ss11 per [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
 - Versione 1.023: aggiunta di caratteri per menu (☰ /uni2630 e ✕ /uni2715)
 - Versione 1.022: aggiunta cv11 (simbolo paragrafo)
 - Versione 1.021: fix numeri romani (errore per numero 50)
