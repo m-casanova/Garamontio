@@ -42,6 +42,7 @@ Alcune caratteristiche opentype disponibili:
 * __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
 * __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 * __ss10__ : zero alternativo (disponibile anche per __onum__, __pnum__, __smcp__ e __c2sc__)
+* __ss11__ : [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
 
 ![image](images/garamontio_8.jpg)
 
