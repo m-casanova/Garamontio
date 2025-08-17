@@ -63,6 +63,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv09__ : numeri romani
 * __cv10__ : numeri romani maiuscoletto
 * __cv11__ : segno di paragrafo alternativo
+* __cv12__ : segni /ordfeminine ª /ordmasculine º /numero №
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
@@ -88,6 +89,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.025: aggiunta cv12 + fix minori
 - Versione 1.024: correzione problema /u corsivo e aggiunta ss11 per [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
 - Versione 1.023: aggiunta di caratteri per menu (☰ /uni2630 e ✕ /uni2715)
 - Versione 1.022: aggiunta cv11 (simbolo paragrafo)
