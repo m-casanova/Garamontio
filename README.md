@@ -64,6 +64,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv10__ : numeri romani maiuscoletto
 * __cv11__ : segno di paragrafo alternativo
 * __cv12__ : segni /ordfeminine ª /ordmasculine º /numero №
+* __cv13__ : versione alternativa di /endash e /emdash
 * __cv28__ : versione alternativa per /Hbar
 
 ![image](images/garamontio_12.jpg)
