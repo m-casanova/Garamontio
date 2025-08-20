@@ -89,6 +89,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.027: aggiunto cv13 (varianti /endash /emdash) + fix macron per smallcaps
 - Versione 1.026: fix minori
 - Versione 1.025: aggiunta cv12 + fix minori
 - Versione 1.024: correzione problema /u corsivo e aggiunta ss11 per [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
