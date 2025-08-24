@@ -66,6 +66,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv12__ : segni /ordfeminine ª /ordmasculine º /numero №
 * __cv13__ : versione alternativa di /endash e /emdash
 * __cv28__ : versione alternativa per /Hbar
+* __cv31__ : cirillico Serbo/Macedone
 
 ![image](images/garamontio_12.jpg)
 
@@ -90,6 +91,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.030: aggiunta cv31
 - Versione 1.029: sistemazione generale per gli elementi "Modifier Letter"
 - Versione 1.028: fix minori
 - Versione 1.027: aggiunto cv13 (varianti /endash /emdash) + fix macron per smallcaps
