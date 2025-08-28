@@ -91,6 +91,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.031: sistemazione smcp e pcap per /macroncomb e /brevecomb
 - Versione 1.030: aggiunta cv31
 - Versione 1.029: sistemazione generale per gli elementi "Modifier Letter"
 - Versione 1.028: fix minori
