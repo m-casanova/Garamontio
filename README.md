@@ -91,7 +91,8 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
-- Versione 1.036: ottimizzazione legature
+- Versione 1.037: ottimizzazione legature longs
+- Versione 1.036: ottimizzazione legature f
 - Versione 1.035: fix minori
 - Versione 1.034: fix cirillico
 - Versione 1.033: fix crenatura per _Vu_ e fix minori
