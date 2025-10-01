@@ -46,8 +46,6 @@ Alcune caratteristiche opentype disponibili:
 * __ss08__ : utilizza la lettera s lunga, ma non con doppia s lunga
 * __ss09__ = __ornm__ : elementi ornamentali disegnati sulla base dell'[esemplare disponibile online](https://sammlungen.ub.uni-frankfurt.de/drucke/content/zoom/7499396)
 * __ss10__ : zero alternativo (disponibile anche per __onum__, __pnum__, __smcp__ e __c2sc__)
-* __ss11__ : [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
-* __ss12__ : bordi
 
 ![image](images/garamontio_31.jpg)
 
@@ -71,6 +69,8 @@ Alcune caratteristiche opentype disponibili:
 * __cv12__ : segni /ordfeminine ª /ordmasculine º /numero №
 * __cv13__ : versione alternativa di /endash e /emdash
 * __cv14__ : f corta
+* __cv21__ : [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
+* __cv22__ : bordi
 * __cv28__ : versione alternativa per /Hbar
 * __cv31__ : cirillico Serbo/Macedone
 
