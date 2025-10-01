@@ -57,8 +57,6 @@ Alcune caratteristiche opentype disponibili:
 
 ![image](images/garamontio_34.jpg)
 
-![image](images/garamontio_35.jpg)
-
 * __cv01__ : versione alternativa delle lettere greche per IPA
 * __cv02__ : versione alternativa di un punto esclamativo (uni2E54)
 * __cv03__ : legature /AE /OE /ae /oe
@@ -82,6 +80,10 @@ Alcune caratteristiche opentype disponibili:
 
 ![image](images/garamontio_43.jpg)
 
+![image](images/garamontio_44.jpg)
+
+![image](images/garamontio_45.jpg)
+
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
 ![image](images/garamontio_51.jpg)
@@ -99,6 +101,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.043: aggiunta di alcuni caratteri + passaggio di alcuni elementi da ssXX e cvXX
 - Versione 1.042: modifiche per f corta contestuale + aggiunta cv14
 - Versione 1.041: aggiunta ss12 per bordi
 - Versione 1.040: sistemazione /tildedoublecomb + aggiunta caratteri box sottili (/uni2500 e seguenti)
