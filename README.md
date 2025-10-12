@@ -71,6 +71,8 @@ Alcune caratteristiche opentype disponibili:
 * __cv14__ : f corta
 * __cv21__ : [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
 * __cv22__ : bordi
+* __cv23__ : numeri cerchiati da 0 a 99
+* __cv24__ : numeri in cerchio pieno da 0 a 99
 * __cv28__ : versione alternativa per /Hbar
 * __cv31__ : cirillico Serbo/Macedone
 
@@ -101,6 +103,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.045: aggiunta __cv24__ per numeri in cerchio nero (da 0 a 99)
 - Versione 1.044: aggiunta __cv23__ per numeri in cerchio (da 0 a 99)
 - Versione 1.043: aggiunta di alcuni caratteri + passaggio di alcuni elementi da __ssXX__ e __cvXX__
 - Versione 1.042: modifiche per _f corta_ contestuale + aggiunta __cv14__
