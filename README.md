@@ -101,40 +101,41 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
-- Versione 1.043: aggiunta di alcuni caratteri + passaggio di alcuni elementi da ssXX e cvXX
-- Versione 1.042: modifiche per f corta contestuale + aggiunta cv14
-- Versione 1.041: aggiunta ss12 per bordi
+- Versione 1.044: aggiunta __cv23__ per numeri in cerchio (da 0 a 99)
+- Versione 1.043: aggiunta di alcuni caratteri + passaggio di alcuni elementi da __ssXX__ e __cvXX__
+- Versione 1.042: modifiche per _f corta_ contestuale + aggiunta __cv14__
+- Versione 1.041: aggiunta __ss12__ per bordi
 - Versione 1.040: sistemazione /tildedoublecomb + aggiunta caratteri box sottili (/uni2500 e seguenti)
 - Versione 1.039: esperimento per /tildedoublecomb
-- Versione 1.038: esperimento per _mgrk_ (caratteri greci per notazione matematica)
+- Versione 1.038: esperimento per __mgrk__ (caratteri greci per notazione matematica)
 - Versione 1.037: ottimizzazione legature /longs
 - Versione 1.036: ottimizzazione legature /f
 - Versione 1.035: fix minori
 - Versione 1.034: fix cirillico
 - Versione 1.033: fix crenatura per _Vu_ e fix minori
-- Versione 1.032: fix crenatura smcp e pcap
-- Versione 1.031: sistemazione smcp e pcap per /macroncomb e /brevecomb
-- Versione 1.030: aggiunta cv31
+- Versione 1.032: fix crenatura __smcp__ e __pcap__
+- Versione 1.031: sistemazione __smcp__ e __pcap__ per /macroncomb e /brevecomb
+- Versione 1.030: aggiunta __cv31__
 - Versione 1.029: sistemazione generale per gli elementi "Modifier Letter"
 - Versione 1.028: fix minori
-- Versione 1.027: aggiunto cv13 (varianti /endash /emdash) + fix macron per smallcaps
+- Versione 1.027: aggiunto __cv13__ (varianti /endash /emdash) + fix macron per smallcaps
 - Versione 1.026: fix minori
-- Versione 1.025: aggiunta cv12 + fix minori
-- Versione 1.024: correzione problema /u corsivo e aggiunta ss11 per [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
+- Versione 1.025: aggiunta __cv12__ + fix minori
+- Versione 1.024: correzione problema /u corsivo e aggiunta __ss11__ per [Block Elements](https://it.wikipedia.org/wiki/Block_Elements)
 - Versione 1.023: aggiunta di caratteri per menu (☰ /uni2630 e ✕ /uni2715)
-- Versione 1.022: aggiunta cv11 (simbolo paragrafo)
+- Versione 1.022: aggiunta __cv11__ (simbolo paragrafo)
 - Versione 1.021: fix numeri romani (errore per numero 50)
 - Versione 1.020: fix minori e test per versione OTF del font
 - Versione 1.019: aggiunta di caratteri
-- Versione 1.018: nuovo test % per onum
-- Versione 1.017: endash emdash per ordn, sups, subs, sinf -- test % per onum 
+- Versione 1.018: nuovo test % per __onum__
+- Versione 1.017: endash emdash per __ordn__, __sups__, __subs__, __sinf__ -- test % per onum 
 - Versione 1.016: miglioramento coda /Q /Q.medium /Q.long per corsivo
 - Versione 1.015: fix minori + icone Creative Commons
 - Versione 1.014: aggiunta di alcuni caratteri
 - Versione 1.013: fix minori
-- Versione 1.012: distinzione cv09 e cv10 per numeri romani
-- Versione 1.011: aggiunta cv09 per numeri romani
-- Versione 1.010: aggiunta cv08 per variante numero 1 (onum, onum&pnum)
+- Versione 1.012: distinzione __cv09__ e __cv10__ per numeri romani
+- Versione 1.011: aggiunta __cv09__ per numeri romani
+- Versione 1.010: aggiunta __cv08__ per variante numero 1 (onum, onum&pnum)
 - Versione 1.009: fix minori
 - Versione 1.008: fix minori
 - Versione 1.007: sistemazione maiuscole per __swsh__ (corsivo)
@@ -152,13 +153,13 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 - Versione 0.969: fix minori
 - Versione 0.968: fix minori
 - Versione 0.967: sistemazione crenatura apostrofo
-- Versione 0.966: riorganizzazione caratteristiche ss e cv
-- Versione 0.965: fix minori e aggiunta cv05 per manicule
-- Versione 0.964: fix legature (liga, hlig, dlig)
-- Versione 0.963: aggiunta cv02 (punto esclamativo) e cv04 (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
+- Versione 0.966: riorganizzazione caratteristiche __ssXX__ e __cvXX__
+- Versione 0.965: fix minori e aggiunta __cv05__ per manicule
+- Versione 0.964: fix legature (__liga__, __hlig__, __dlig__)
+- Versione 0.963: aggiunta __cv02__ (punto esclamativo) e __cv04__ (esperimento maiuscole in tondo per il corsivo, cfr. Manuzio) 
 - Versione 0.962: fix minori
-- Versione 0.961: fix posizione dieresi/punto + legature /AE /OE /ae /oe (cv03)
-- Versione 0.960: <s>alternativa posizione punto /i /j (cv02)</s> [Rimosso v. 0.961]
+- Versione 0.961: fix posizione dieresi/punto + legature /AE /OE /ae /oe (__cv03__)
+- Versione 0.960: <s>alternativa posizione punto /i /j (__cv02__)</s> [Rimosso v. 0.961]
 - Versione 0.959: fix minori
 - Versione 0.958: fix posizione punto /i /j
 - Versione 0.957: fix minori
@@ -166,24 +167,24 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 - Versione 0.955: fix minori
 - Versione 0.954: maiuscoletto coerente tra regular e italic (fix greco)
 - Versione 0.953: fix minori + aggiunta caratteri
-- Versione 0.952: cv28 /Hbar - Matematica: aggiunta caratteri e simboli matematici + fraktur (cv01)
-- Versione 0.951: fix minori + aggiunta caratteri + modifica ss10
-- Versione 0.950: fix minori + aggiunta caratteri + prima crenatura per pcap&c2pc
+- Versione 0.952: aggiunta __cv28__ /Hbar + aggiunta caratteri e simboli matematici + fraktur (__cv01__)
+- Versione 0.951: fix minori + aggiunta caratteri + modifica __ss10__
+- Versione 0.950: fix minori + aggiunta caratteri + prima crenatura per __pcap__ e __c2pc__
 - Versione 0.949: fix minori, incluse alcune ancore per alfabeto cirillico
-- Versione 0.948: fix minori + ss09 (elementi ornamentali)
-- Versione 0.947: fix minori + ss05 (Q coda corta) + ss06 (Q coda lunga) + ss08 (eszet)
-- Versione 0.946: aggiunta /copyleft + test per ss06 (coda lettera Q)
-- Versione 0.944: fix accenti + longs
-- Versione 0.943: fix minori (dlig e crenatura)
-- Versione 0.942: aggiunta caratteri pcap
-- Versione 0.941: fix minori + test ss04 (varianti /b /d /h /k)
-- Versione 0.940: aggiunta di caratteri per cedilla + test ss04 (varianti /h e /k)
+- Versione 0.948: fix minori + __ss09__ (elementi ornamentali)
+- Versione 0.947: fix minori + __ss05__ (Q coda corta) + __ss06__ (Q coda lunga) + __ss08__ (eszet)
+- Versione 0.946: aggiunta /copyleft + test per __ss06__ (coda lettera Q)
+- Versione 0.944: fix accenti + /longs
+- Versione 0.943: fix minori (__dlig__ e crenatura)
+- Versione 0.942: aggiunta caratteri __pcap__
+- Versione 0.941: fix minori + test __ss04__ (varianti /b /d /h /k)
+- Versione 0.940: aggiunta di caratteri per cedilla + test __ss04__ (varianti /h e /k)
 - Versione 0.939: aggiunta di caratteri + fix minori
 - Versione 0.938: blocco IPA completato + carattere ℗ + fix minori
 - Versione 0.937: aggiunta di caratteri e fix minori
 - Versione 0.935: sistemazione di caratteri combinati
 - Versione 0.934: tentativo di sistemazione delle ancore per i caratteri combinati
-- Versione 0.933: aggiunti caratteri musicali, SS03 (caratteri greci IPA + corsivo), fix kerning / con punteggiatura
+- Versione 0.933: aggiunti caratteri musicali, __ss03__ (caratteri greci IPA + corsivo), fix kerning / con punteggiatura
 - Versione 0.932: blocco IPA (aggiunte caratteri) e sistemazione per alcuni segni diatrici
 - Versione 0.931: blocco IPA (aggiunte caratteri) e sistemazione per alcuni segni diatrici
 - Versione 0.929: blocco IPA (aggiunte e correzione forma di alcuni caratteri), correzione ę
@@ -193,11 +194,11 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 - Versione 0.925: fix per caratteri combinati (non ancora completato)
 - Versione 0.924: fix minori
 - Versione 0.923: fix minore e aggiunta carattere F160 da MUFI
-- Versione 0.922: tentativo di sistemazione di f.short per alcuni casi
+- Versione 0.922: tentativo di sistemazione di /f.short per alcuni casi
 - Versione 0.921: sistemazione problemi di interpolazione di alcuni caratteri (regular + italic)
 - Versione 0.919: sistemazione disegno dei caratteri
 - Versione 0.918: sistemazione della crenatura per diversi caratteri
-- Versione 0.917: sistemazione _dlig_ e alcuni fix ai caratteri
+- Versione 0.917: sistemazione __dlig__ e alcuni fix ai caratteri
 - Versione 0.916: aggiunta di alcuni caratteri per trascrizioni come da progetto [MUFI](https://en.wikipedia.org/wiki/Medieval_Unicode_Font_Initiative)
 - Versione 0.915: aggiunta di alcuni caratteri per trascrizioni come da progetto MUFI
 - Versione 0.911: fix minori e creazione file per versioni statiche del font (otf, ttf, woff, woff2)
