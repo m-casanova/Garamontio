@@ -104,6 +104,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.047: fix crenatura per lettera /R con alcune lettere seguenti
 - Versione 1.046: aggiunta __cv25__ per frecce cerchiate e in cerchio nero
 - Versione 1.045: aggiunta __cv24__ per numeri in cerchio nero (da 0 a 99)
 - Versione 1.044: aggiunta __cv23__ per numeri in cerchio (da 0 a 99)
