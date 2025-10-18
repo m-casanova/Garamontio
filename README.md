@@ -76,6 +76,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv25__ : frecce cerchiate e in cerchio pieno
 * __cv28__ : versione alternativa per /Hbar
 * __cv31__ : cirillico Serbo/Macedone
+* __cv99__ : logo da /@
 
 ![image](images/garamontio_41.jpg)
 
@@ -86,6 +87,8 @@ Alcune caratteristiche opentype disponibili:
 ![image](images/garamontio_44.jpg)
 
 ![image](images/garamontio_45.jpg)
+
+![image](images/garamontio_46.jpg)
 
 Le caratteristiche opentype sono facilmente attivabili in LibreOffice ([it](https://help.libreoffice.org/latest/it/text/shared/01/font_features.html) / [en](https://help.libreoffice.org/latest/en-US/text/shared/01/font_features.html))
 
@@ -104,6 +107,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.048: fix crenatura per lettera /R con alcune lettere seguenti + test __cv99__ per logo
 - Versione 1.047: fix crenatura per lettera /R con alcune lettere seguenti
 - Versione 1.046: aggiunta __cv25__ per frecce cerchiate e in cerchio nero
 - Versione 1.045: aggiunta __cv24__ per numeri in cerchio nero (da 0 a 99)
