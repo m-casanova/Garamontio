@@ -110,6 +110,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.051: fix per /f con /imacron e /idblgrave (con legature per __cv51__)
 - Versione 1.050: aggiunta __cv51__ per legature di /f e /i
 - Versione 1.049: fix minori
 - Versione 1.048: fix crenatura per lettera /R con alcune lettere seguenti + test __cv99__ per logo
