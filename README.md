@@ -110,6 +110,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.055: aggiunta caratteri per __ss04__ (esperimento corsivo aldino)
 - Versione 1.054: fix minori e aggiunta di alcuni caratteri
 - Versione 1.053: aggiunta di alcuni [simboli musicali da blocco uni1D100](https://en.wikipedia.org/wiki/Musical_Symbols_(Unicode_block))
 - Versione 1.052: fix minori e aggiunta di alcuni caratteri
