@@ -110,6 +110,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.057: test per __hist__ relativo a lingua norvegese
 - Versione 1.056: fix minori e aggiunta di alcuni caratteri
 - Versione 1.055: aggiunta caratteri per __ss04__ (esperimento corsivo aldino)
 - Versione 1.054: fix minori e aggiunta di alcuni caratteri
