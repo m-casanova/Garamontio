@@ -74,6 +74,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv23__ : numeri cerchiati da 0 a 99
 * __cv24__ : numeri in cerchio pieno da 0 a 99
 * __cv25__ : frecce cerchiate e in cerchio pieno
+* __cv26__ : grafo
 * __cv28__ : versione alternativa per /Hbar
 * __cv31__ : cirillico Serbo/Macedone
 * __cv51__ : legature per /f con /i
@@ -110,6 +111,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.059: aggiunta __cv26__
 - Versione 1.058: fix per formato OTF
 - Versione 1.057: test per __hist__ relativo a lingua norvegese
 - Versione 1.056: fix minori e aggiunta di alcuni caratteri
