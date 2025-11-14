@@ -112,7 +112,8 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
-- Versione 1.059: aggiunta __ss11__ (stile Cinquecento, esperimento)
+- Versione 1.061: fix minori
+- Versione 1.060: aggiunta __ss11__ (stile Cinquecento, esperimento)
 - Versione 1.059: aggiunta __cv26__
 - Versione 1.058: fix per formato OTF
 - Versione 1.057: test per __hist__ relativo a lingua norvegese
