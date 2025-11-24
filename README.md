@@ -76,6 +76,7 @@ Alcune caratteristiche opentype disponibili:
 * __cv24__ : numeri in cerchio pieno da 0 a 99
 * __cv25__ : frecce cerchiate e in cerchio pieno
 * __cv26__ : grafo
+* __cv27__ : versione alternativa per /Gcedilla /gcedilla
 * __cv28__ : versione alternativa per /Hbar
 * __cv31__ : cirillico Serbo/Macedone
 * __cv51__ : legature per /f con /i
@@ -112,6 +113,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.063: aggiunta di __cv27__ per /Gcedilla /gcedilla
 - Versione 1.062: aggiunta di figure a __ornm__ (A, B) + aggiunta /numero.sc
 - Versione 1.061: fix minori
 - Versione 1.060: aggiunta __ss11__ (stile Cinquecento, esperimento)
