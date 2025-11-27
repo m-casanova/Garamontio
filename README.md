@@ -113,6 +113,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.064: fix minori
 - Versione 1.063: aggiunta di __cv27__ per /Gcedilla /gcedilla
 - Versione 1.062: aggiunta di figure a __ornm__ (A, B) + aggiunta /numero.sc
 - Versione 1.061: fix minori
