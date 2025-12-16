@@ -113,6 +113,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.068: fix minori
 - Versione 1.067: aggiunta decorazione in __ornm__ (/question)
 - Versione 1.066: sistemazione generale e aggiunta decorazione in __ornm__ (/asterisk /exclam)
 - Versione 1.065: fix per V/W con dieresi
