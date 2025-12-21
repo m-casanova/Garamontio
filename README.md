@@ -113,6 +113,7 @@ Si possono anche utilizzare capolettera cinquecenteschi come [Capo Nodi](https:/
 ![image](images/garamontio_98.jpg)
 
 ## Versioni
+- Versione 1.071: aggiunta di alcuni caratteri 🐇 🐕 🐦 🦌
 - Versione 1.070: fix __cv13__ e aggiunta __cv15__
 - Versione 1.069: fix errore nella v. 1.068 + aggiunta __cv52__
 - Versione 1.068: fix minori
